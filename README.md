@@ -20,4 +20,4 @@ NVIDIA_NIM_API_KEY
 YOUTUBE_API_KEY
 
 # Run the Interface:
-python your_script.py
+python app.py
